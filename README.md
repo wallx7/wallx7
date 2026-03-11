@@ -1,48 +1,66 @@
 <div align="center">
 
-# Olá! Me chamo willian wallace
-
-Focado em construir soluções com PHP, React e Python.
+# Willian Wallace • wallx7  
+Desenvolvedor Full Stack e Técnico de Infraestrutura
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60" />
-</p>
-
-<div align="center"><b>PHP</b> • <b>React</b> • <b>Python</b></div>
+## 🎯 Sobre mim
+- Atuação híbrida: infraestrutura (hardware e software) e desenvolvimento.
+- Criação de sistemas internos sob medida para empresas.
+- Foco em confiabilidade, automação e desempenho.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Infraestrutura
+- Redes, cabeamento, roteadores e switches.
+- Serviços: Apache, bancos de dados, automações e scripts.
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wallx7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallx7&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="36" />
 </p>
 
 ---
 
-## ✨ O que construo
+## 💻 Desenvolvimento
+- Back-ends e APIs REST com PHP.
+- Front-ends dinâmicos com React.
+- Automação e integração de dados com Python.
 
-- Back-ends e APIs modernas com PHP.
-- Interfaces dinâmicas e performáticas com React.
-- Automação e scripts úteis com Python.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="36" />
+</p>
 
-<div align="center">
-Se curtir os projetos, deixe uma ⭐ — ajuda muito!
-</div>
+---
+
+## 📦 O que entrego
+- Sistemas internos e portais administrativos.
+- Integrações entre sistemas e automação de processos (RPA).
+- Observabilidade básica: logs, métricas e alertas.
+- Documentação objetiva e treinamento do time.
+
+---
+
+## 📬 Contato
+- LinkedIn:(https://www.linkedin.com/in/willian-wallace0005/)
+- E-mail: wallacewillian2005@gmail.com
