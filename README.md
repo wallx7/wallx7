@@ -25,6 +25,7 @@ Desenvolvedor Full Stack e Técnico de Infraestrutura
 ## 🛠️ Infraestrutura
 - Redes, cabeamento, roteadores e switches.
 - Serviços: Apache, bancos de dados, automações e scripts.
+- Manutenção de hardware.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="36" />
