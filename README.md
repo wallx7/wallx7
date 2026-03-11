@@ -76,7 +76,16 @@ conhecimentos:
 ### ⚙️ Infraestrutura & DevOps
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,bash,raspberrypi,vscode&theme=dark" alt="Infra" />
+<img src="https://skillicons.dev/icons?i=bash,raspberrypi,vscode&theme=dark" alt="Infra" />
+
+<br/><br/>
+
+### 🤖 IA & Ferramentas de Desenvolvimento
+<br/>
+
+<a><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
+&nbsp;
+<a><img src="https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
 
 </div>
 
