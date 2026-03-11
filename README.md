@@ -1,6 +1,6 @@
 <div align="center">
 
-# Willian Wallace • wallx7  
+# Willian Wallace 
 Desenvolvedor Full Stack e Técnico de Infraestrutura
 
 <p>
