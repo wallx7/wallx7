@@ -25,7 +25,7 @@
 ```yaml
 nome: Willian Wallace
 cargo: Desenvolvedor Full Stack & Técnico de Infraestrutura
-localização: Brasil 🇧🇷
+localização: Santa catarina, Brasil
 
 infraestrutura:
   - Suporte e manutenção de hardware
@@ -43,13 +43,15 @@ desenvolvimento:
 
 certificações:
   - AWS Certified AI Practitioner (AIF-C01)
+  - Engenharia de software Fiap
+  
 
 conhecimentos:
   - Engenharia de Requisitos
   - Engenharia de Software & Gestão da Qualidade
   - Inteligência Artificial & Machine Learning
-  - Desenvolvimento de IA Generativa
-  - Amazon Web Services (AWS)
+  - Desenvolvimento Com IA Generativa
+  
 ```
 
 <br/>
