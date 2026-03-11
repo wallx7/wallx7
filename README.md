@@ -26,17 +26,30 @@
 nome: Willian Wallace
 cargo: Desenvolvedor Full Stack & Técnico de Infraestrutura
 localização: Brasil 🇧🇷
-foco:
-  - Sistemas internos sob medida para empresas
-  - Infraestrutura de redes e servidores
-  - Automação e integração de processos
-  - Confiabilidade, performance e observabilidade
-experiência:
+
+infraestrutura:
+  - Suporte e manutenção de hardware
+  - Sistemas de controle de acesso (catracas eletrônicas)
+  - Redes: crimpagem RJ45, cabeamento estruturado
+  - Antenas corporativas: Unifi e Ruckus
+  - Telefonia IP e configuração de ramais SIP
+  - Projetos com Raspberry Pi
+  - Foco: manter a operação funcionando sem interrupções
+
+desenvolvimento:
   - Back-ends e APIs REST com PHP
   - Front-ends dinâmicos com React
   - Automação e integração de dados com Python
-  - Redes, cabeamento, roteadores e switches
-  - Manutenção de hardware e software
+
+certificações:
+  - AWS Certified AI Practitioner (AIF-C01)
+
+conhecimentos:
+  - Engenharia de Requisitos
+  - Engenharia de Software & Gestão da Qualidade
+  - Inteligência Artificial & Machine Learning
+  - Desenvolvimento de IA Generativa
+  - Amazon Web Services (AWS)
 ```
 
 <br/>
@@ -63,25 +76,8 @@ experiência:
 ### ⚙️ Infraestrutura & DevOps
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,bash,vscode&theme=dark" alt="Infra" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,bash,raspberrypi,vscode&theme=dark" alt="Infra" />
 
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianwallace&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianwallace&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=willianwallace&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -139,10 +135,6 @@ experiência:
 
 <a href="https://www.linkedin.com/in/willian-wallace0005/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/willianwallace/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:wallacewillian2005@gmail.com">
