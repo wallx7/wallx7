@@ -51,7 +51,7 @@ conhecimentos:
   - Engenharia de Software & Gestão da Qualidade
   - Inteligência Artificial & Machine Learning
   - Desenvolvimento de IA Generativa
-  - Amazon Web Services (AWS)
+  
 ```
 
 <br/>
