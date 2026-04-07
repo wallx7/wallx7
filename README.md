@@ -43,6 +43,8 @@ desenvolvimento:
 
 certificações:
   - AWS Certified AI Practitioner (AIF-C01)
+  - Inteligência Artificial e Computacional
+  - Advance Your Skills as an IT Help Desk Specialist
 
 conhecimentos:
   - Engenharia de Requisitos
